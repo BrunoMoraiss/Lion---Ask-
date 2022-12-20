@@ -1,0 +1,16 @@
+body{
+    background-color: #eceff1;
+}
+
+#img-question{
+    margin-left: 15px;
+    width: 50px;
+}
+
+#form-question {
+    margin-top: 5vh;
+}
+
+label{
+    font-weight: 500;
+}

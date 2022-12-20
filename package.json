@@ -1,0 +1,22 @@
+{
+  "name": "guia-de-perguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de perguntas e respostas, estilo yahoo respostas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Bruno Morais",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
